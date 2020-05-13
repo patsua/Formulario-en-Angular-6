@@ -13,7 +13,7 @@ CREATE TABLE accionesproceso(
     accion VARCHAR(255),
     proceso VARCHAR(255),
     responsable VARCHAR(200),
-    fechaini VARCHAR(50),
+    fechaini VARCHAR(60),
     fechafin VARCHAR(50),
     actividades VARCHAR(50)
 );
